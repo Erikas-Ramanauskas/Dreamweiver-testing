@@ -1,0 +1,32 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FBF4EA;
+    background-repeat: no-repeat;
+    background-image: -webkit-linear-gradient(305deg,rgba(182,217,255,1.00) 0%,rgba(255,208,187,1.00) 100%);
+    background-image: -moz-linear-gradient(305deg,rgba(182,217,255,1.00) 0%,rgba(255,208,187,1.00) 100%);
+    background-image: -o-linear-gradient(305deg,rgba(182,217,255,1.00) 0%,rgba(255,208,187,1.00) 100%);
+    background-image: linear-gradient(145deg,rgba(182,217,255,1.00) 0%,rgba(255,208,187,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #7C1012;
+    background-image: -webkit-linear-gradient(270deg,rgba(70,88,233,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(70,88,233,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(70,88,233,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(70,88,233,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    color: #FFFFFF;
+
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #4C06F9;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    color: #DBF900;
+    background-color: #B1FF02;
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link.active {
+    color: #E1ED10;
+}
